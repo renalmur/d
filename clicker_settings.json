@@ -1,0 +1,10 @@
+{
+  "delay": "1",
+  "unit": "мс",
+  "mouse_button": "left",
+  "key_toggle": "f6",
+  "key_exit": "f7",
+  "key_instant": "f8",
+  "combo": "alt+f4",
+  "combo_enabled": true
+}

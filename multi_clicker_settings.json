@@ -1,0 +1,28 @@
+{
+  "key_toggle": "f6",
+  "key_instant": "f8",
+  "key_exit": "f7",
+  "ac_delay": "10",
+  "ac_unit": "мс",
+  "ac_button": "left",
+  "ac_check_delay": "100уу",
+  "kh_keys": [
+    {
+      "key": "у",
+      "hold": 1.0
+    }
+  ],
+  "kh_cycle_delay": "0",
+  "kh_hold_method": "pynput",
+  "px_color": "#3af605",
+  "px_tolerance": "10",
+  "px_return": true,
+  "px_move_speed": "0.05",
+  "sc_left": "827",
+  "sc_top": "780",
+  "sc_right": "1084",
+  "sc_bottom": "865",
+  "search_mode": "rgb",
+  "hsv_min_h": "43",
+  "hsv_max_h": "63"
+}
